@@ -3,38 +3,59 @@ amfaymos/amfaymos is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" alt="GIF" src="https://github.com/amfaymos/amfaymos/blob/main/catmood.gif?raw=true" width="500" height="325" />
-  
+<img align="right" alt="GIF" src="https://github.com/amfaymos/amfaymos/blob/main/catmood.gif?raw=true" width="480" height="320" />
 
-- ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=amfaymos.amfaymos)
-- 👀 I’m Mostofa
-- 🌱 I’m a front-end designer and currently learning Java.
-- 👾 I’m looking to collaborate on open-source projects
-- 📫 any freelance work? do reach via [email](mailto:amfaymos@gmail.com) :)
-- 🌐 Visit my website <a href="https://www.mostofafaysal.com/">MostofaFaysal</a>
+# Hey there, I'm Mostofa Faysal
+![](https://visitor-badge.glitch.me/badge?page_id=amfaymos.amfaymos)
 
- <!--</br>
-if you like what I do, maybe consider buying me a 
-<a href="https://www.buymeacoffee.com/amfaymos" target="_blank">coffee</a> ☕
+Data Science and Machine Learning student at Red River College Polytechnic  
+Aspiring Data Analyst and Machine Learning Engineer focused on solving real-world problems through data.  
+Currently exploring Neural Networks, AI, and Robotics Automation while building data-driven projects that combine design, analytics, and automation.
 
-</br>--->
+---
 
+## What I Do
+- Perform data analysis, visualization, and predictive modeling using Python  
+- Build interactive dashboards and data pipelines with SQL, Power BI, and Pandas  
+- Explore machine learning applications in healthcare and business analytics  
+- Design user-centered interfaces backed by data insights  
+- Collaborate on open-source and data-driven AI projects  
 
-<br />
-<hr/>
+---
 
-### Coding Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2052%20mins-blue)
+## Currently Working On
+- Unsupervised machine learning and AI model interpretability  
+- Data storytelling dashboards using Power BI and Streamlit  
+- Healthcare cost prediction and claims analytics project  
+- Enhancing my data science portfolio for upcoming co-op  
+
+---
+
+## Technical Skills
+Languages and Tools:  
+Python | SQL | Power BI | Pandas | NumPy | Matplotlib | Scikit-learn | MongoDB | Azure | Git/GitHub  
+
+Core Skills:  
+Data Cleaning | Exploratory Data Analysis | Predictive Modeling | Data Visualization | Statistical Analysis | Machine Learning Pipelines  
+
+---
+
+## Connect With Me
+Email: [amfaymos@gmail.com](mailto:amfaymos@gmail.com)
+LinkedIn: [linkedin.com/in/mostofafaysal](https://www.linkedin.com/in/mostofa-faysal)  
+
+---
+
+## GitHub and Coding Stats
+![Code Time](http://img.shields.io/badge/Code%20Time-500%2B%20hrs-blue)
 
 <figure><embed src="https://wakatime.com/share/@amfaymos/c3975b00-5ce8-4362-8332-3acb042560fb.svg"></embed></figure>
-
 <figure><embed src="https://wakatime.com/share/@amfaymos/ed4292a7-ae21-4650-8584-fc3cf87183a2.svg"></embed></figure>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amfaymos&show_icons=true&theme=gotham" alt="amfaymos" />
+</p>
 
- Last Updated on 02/01/2023 18:37:59 UTC
-<!--END_SECTION:waka--> 
+---
 
-### GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amfaymos&show_icons=true&theme=gotham" alt="amfaymos" />
+"Turning data into insight, and insight into action."
