@@ -1,23 +1,37 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily at 12 AM UTC
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE_PER_REPO: "Flase"
-          SHOW_LOC_CHART: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          ### Meta
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: your-username/your-repo  # <- replace with your GitHub repo
+          ### Content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿  # <-- this creates the gradient bars
+          CODE_LANG: txt
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          ### Commit
+          COMMIT_MESSAGE: "Updated WakaTime stats in README"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Mostofa Faysal
+          AUTHOR_EMAIL: amfaymos@gmail.com
