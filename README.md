@@ -46,16 +46,4 @@ LinkedIn: [linkedin.com/in/mostofafaysal](https://www.linkedin.com/in/mostofa-fa
 
 ---
 
-## GitHub and Coding Stats
-![Code Time](http://img.shields.io/badge/Code%20Time-500%2B%20hrs-blue)
-
-<figure><embed src="https://wakatime.com/share/@amfaymos/c3975b00-5ce8-4362-8332-3acb042560fb.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@amfaymos/ed4292a7-ae21-4650-8584-fc3cf87183a2.svg"></embed></figure>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amfaymos&show_icons=true&theme=gotham" alt="amfaymos" />
-</p>
-
----
-
 "Turning data into insight, and insight into action."
