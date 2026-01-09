@@ -48,5 +48,3 @@ LinkedIn: [linkedin.com/in/mostofa-faysal](https://www.linkedin.com/in/mostofa-f
 ### 🕒
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-"Turning data into insight, and insight into action."
