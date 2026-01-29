@@ -1,8 +1,3 @@
-# Mostofa Faysal
-
-Data Science & Machine Learning graduate focused on building practical, data-driven systems with measurable business impact.  
-Currently seeking **full-time opportunities** in Data Science, Analytics, and AI-related roles.
-
 ## Core Skills
 - **Data Analysis:** Python (Pandas, NumPy), SQL, Power BI
 - **Machine Learning:** Supervised & Unsupervised learning, feature engineering, model evaluation
