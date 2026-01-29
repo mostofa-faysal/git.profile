@@ -14,7 +14,3 @@
 - End-to-end data analysis and ML pipelines
 - Business-focused analytics and dashboards
 - Model interpretability and performance evaluation
-- AI systems for real-world decision-making
-
-## Connect
-- LinkedIn: https://www.linkedin.com/in/mostofa-faysal/
