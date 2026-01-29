@@ -11,7 +11,7 @@ I specialize in transforming raw data into insights, models, and decision-suppor
 - **Machine Learning:** Supervised & Unsupervised learning, feature engineering, model evaluation
 - **Programming:** Python, Git, GitHub
 - **Databases:** PostgreSQL, SQLite
-- **Foundations:** Statistics, Linear Algebra, Data Management
+- **Foundations:** Statistics, Linear Algebra, Data Management, Data Governance
 
 ## Current Status
 - Academic term completed
@@ -24,15 +24,6 @@ I specialize in transforming raw data into insights, models, and decision-suppor
 - Business-focused analytics and dashboards
 - Model interpretability and performance evaluation
 - AI systems for real-world decision-making
-
-## Tools & Tech
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostofa-faysal&show_icons=true&hide_title=true)
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/mostofa-faysal/
